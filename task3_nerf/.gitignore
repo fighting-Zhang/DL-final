@@ -2,4 +2,3 @@
 **/__pycache__
 logs/*
 weights_and_output/*
-data/*
